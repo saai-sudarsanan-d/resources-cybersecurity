@@ -153,3 +153,11 @@ https://cryptohack.org/
 * Threat Intelligence
 * Social Engineering
 * OSINT
+
+## BASICS
+
+*Python Basics :* https://www.youtube.com/watch?v=8DvywoWv6fI 
+*Linux -* https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+*Bash Scripting-* https://www.youtube.com/watch?v=LTuuMtQR1uQ&list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT
+https://overthewire.org/wargames/bandit/
+*Web :* https://www.youtube.com/c/HackerSploit/search?query=webapp%20pentesting
