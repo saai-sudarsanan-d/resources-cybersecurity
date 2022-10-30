@@ -4,10 +4,10 @@ I am glad to find so many people in SASTRA being interested in Cyber Security. I
 
 So, what are these domains I am talking about?
 
-```
+``
 Malware Analysis
 Malware analysis is the process of understanding the behavior and purpose of a suspicious file or URL. The output of the analysis aids in the detection and mitigation of the potential threat.
-```
+``
 
 Resources :
 Practical Malware Analysis Book
@@ -17,10 +17,10 @@ MalwareAnalysisOfHedgehogs - https://www.youtube.com/c/MalwareAnalysisForHedgeho
 https://www.first.org/global/sigs/malware/resources/
 https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/
 
-```
+``
 Digital Forensics and Incident Response
 Digital forensics and incident response (DFIR) is a specialized field focused on identifying, remediating, and investigating cyber security incidents. Digital forensics includes collecting, preserving, and analyzing forensic evidence to paint a full, detailed picture of events.
-```
+``
 Resources : 
 https://dfirdiva.com/getting-into-dfir/
 https://www.youtube.com/watch?v=-IUJnDs6rbE
@@ -34,10 +34,10 @@ https://github.com/stuxnet999/MemLabs
 https://www.netresec.com/?page=PcapFiles
 https://www.malware-traffic-analysis.net/
 
-```
+``
 Reverse Engineering
 Reverse engineering covers a broad range of areas, including decompiling and disassembling of executable files and libraries, and analysis of system data. In the field of computer security, reverse engineering is used to study malware activity and create tools to neutralize it.
-```
+``
 
 Resources : 
 The Reversing Secrets of a Reverse Engineer book is pretty good, especially the 3 indexes in the back of the book.
