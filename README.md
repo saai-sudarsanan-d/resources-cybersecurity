@@ -134,7 +134,7 @@ OWASP Broken Web Apps
 https://www.youtube.com/playlist?list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ
 
 https://www.youtube.com/playlist?list=PL60F3F917709C7DD5
-@Shyam Sunder Infinity 
+
 
 Important Algorithms :
 - AES
